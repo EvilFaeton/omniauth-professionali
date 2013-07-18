@@ -1,4 +1,4 @@
-# Professionali GitHub
+# Omniauth Professionali
 
 This is the Professionali strategy for authenticating to Professionali.ru. To
 use it, you'll need to sign up for an OAuth2 Application ID and Secret
